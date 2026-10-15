@@ -81,6 +81,16 @@
 - сохранение контекста диалога;
 - возврат сформированного ответа в Telegram;
 - проверка сценария использования AI как части пользовательского продукта.
+
+## Tools & Technologies
+
+ChatGPT · Claude · Codex · API integrations · Telegram · Django · PostgreSQL · SQLite · Google Sheets · OCR · Local AI models · Git · Docker
+
+## Contacts
+
+- Telegram: https://t.me/tipazloy_projects
+- GitHub: https://github.com/TipaZloy
+
 <!--
 **TipaZloy/TipaZloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

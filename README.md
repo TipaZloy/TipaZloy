@@ -39,8 +39,8 @@
 <p>
   <a href="https://raw.githubusercontent.com/TipaZloy/TipaZloy/main/assets/contact-manager/projects.jpg"><img src="assets/contact-manager/projects.jpg" height="100" alt="Проекты" title="Проекты — заявки, статусы и следующие действия"></a>
   <a href="https://raw.githubusercontent.com/TipaZloy/TipaZloy/main/assets/contact-manager/contacts.jpg"><img src="assets/contact-manager/contacts.jpg" height="100" alt="Контакты" title="Контакты — категории, поиск и история работы с клиентами"></a>
-  <a href="https://raw.githubusercontent.com/TipaZloy/TipaZloy/main/assets/contact-manager/project-details.jpg"><img src="assets/contact-manager/project-details.jpg" height="100" alt="Карточка проекта" title="Карточка проекта — запрос, ответственный, документы и комментарии"></a>
-  <a href="https://raw.githubusercontent.com/TipaZloy/TipaZloy/main/assets/contact-manager/contact-details.jpg"><img src="assets/contact-manager/contact-details.jpg" height="100" alt="Карточка клиента" title="Карточка клиента — контактные данные, выезды и история взаимодействий"></a>
+  <a href="https://raw.githubusercontent.com/TipaZloy/TipaZloy/main/assets/contact-manager/project-details.png"><img src="assets/contact-manager/project-details.png" height="100" alt="Карточка проекта" title="Карточка проекта — запрос, ответственный, документы и комментарии"></a>
+  <a href="https://raw.githubusercontent.com/TipaZloy/TipaZloy/main/assets/contact-manager/contact-details.png"><img src="assets/contact-manager/contact-details.png" height="100" alt="Карточка клиента" title="Карточка клиента — контактные данные, выезды и история взаимодействий"></a>
   <a href="https://raw.githubusercontent.com/TipaZloy/TipaZloy/main/assets/contact-manager/proposal.png"><img src="assets/contact-manager/proposal.png" height="100" alt="Коммерческое предложение" title="Коммерческое предложение — шаблон письма и вложения"></a>
 </p>
 

@@ -121,7 +121,7 @@
 
 ## Tools & Technologies
 
-ChatGPT · Claude · Codex · API integrations · Telegram · Django · PostgreSQL · SQLite · Google Sheets · OCR · Local AI models · Git · Docker
+ChatGPT · Claude · Codex · API integrations · MCP · Telegram · Django · PostgreSQL · SQLite · Google Sheets · OCR · Local AI models · Git · Docker
 
 ## Contacts
 
